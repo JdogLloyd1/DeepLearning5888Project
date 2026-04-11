@@ -5,6 +5,7 @@ Agenda
 - Which model architectures to test, who will run which models 
 
 Completed: Replication of model results by Andrew, Jack to confirm good code 
+
 Results look suspicious though. Short variant looks okay but long variant was erroring out. 
 Perhaps Pytorch vs original package? Modified learning rate from baseline and got decent results. 
 
@@ -27,6 +28,9 @@ The main weakness is that the background is stronger on neural methods than on n
 For the final presentation and report, please consider keeping the comparison set focused so that the key takeaway remains sharp, and it would be great if you could emphasize which changes actually matter most relative to the original Piczak baseline rather than presenting too many incremental variations.
 
 Presentation chief - Andrew
+
 Everyone needs to talk - schedule a Zoom to record together
+
 Q&A board primary responder - Jonathan 
+
 Final report chief - Andrew - will assign sections to people and bring it all together
