@@ -18,13 +18,15 @@ Code workflow - Angela, Jonathan?
 4. Upload Drive folders to GitHub 
 
 Models we want to run: 
-1. Variations on CNNs - Amine
+1. Variations on CNNs - Amine - try to pinpoint specific parameters/hyperparameters that were most impactful
 2. Transfer learning from audio models - can get for free on Kaggle or pip - Jack
 3. RNNs - Angela
 4. LSTMs - Jonathan
 
 Comment to address: 
 The main weakness is that the background is stronger on neural methods than on non-neural alternatives, whereas the prompt ideally asked for both. 
+For final report - add some detail on traditional ML methods to the background section, no implementation needed. Give some background on when RNN/LSTM/Transfer learning became popularized 
+
 For the final presentation and report, please consider keeping the comparison set focused so that the key takeaway remains sharp, and it would be great if you could emphasize which changes actually matter most relative to the original Piczak baseline rather than presenting too many incremental variations.
 
 Presentation chief - Andrew
