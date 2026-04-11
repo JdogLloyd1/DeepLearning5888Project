@@ -19,9 +19,10 @@ Code workflow - Angela, Jonathan?
 
 Models we want to run: 
 1. Variations on CNNs - Amine - try to pinpoint specific parameters/hyperparameters that were most impactful
-2. Transfer learning from audio models - can get for free on Kaggle or pip - Jack
-3. Transformers - Angela - e.g. Audio Spectrogram Transformer AST, BEATs/AudioMAE
-4. LSTMs - Jonathan
+2. Transfer learning
+a. Transformers - Angela - e.g. Audio Spectrogram Transformer AST, BEATs/AudioMAE
+b. Other architectures - Jack - e.g. VGGish, etc (check to make sure they aren't Transformers) 
+3. LSTMs - Jonathan
 
 Comment to address: 
 The main weakness is that the background is stronger on neural methods than on non-neural alternatives, whereas the prompt ideally asked for both. 
