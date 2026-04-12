@@ -24,6 +24,8 @@ Models we want to run:
 3a. Transformers - Angela - e.g. Audio Spectrogram Transformer AST, BEATs/AudioMAE
 3b. Other architectures - Jack - e.g. VGGish, etc (check to make sure they aren't Transformers) 
 
+Can use lowest GPU for testing, but use A100 for your run for record
+Test for cross entropy loss, accuracy on last epoch, convergence slope (eyeball)
 
 Comment to address: 
 The main weakness is that the background is stronger on neural methods than on non-neural alternatives, whereas the prompt ideally asked for both. 
