@@ -1,0 +1,6 @@
+architecture,variant,fold,best_clip_test_acc,final_clip_test_acc,best_clip_epoch,best_test_acc,final_test_acc,best_epoch
+LSTM_Run8_CapacityMeanPool,long,1,0.56,0.525,35,0.4839583333333333,0.4775,49
+LSTM_Run8_CapacityMeanPool,long,2,0.5675,0.5575,34,0.49125,0.4891666666666667,53
+LSTM_Run8_CapacityMeanPool,long,3,0.6025,0.58,50,0.5208333333333334,0.5175,47
+LSTM_Run8_CapacityMeanPool,long,4,0.6575,0.6225,44,0.56625,0.5597916666666667,46
+LSTM_Run8_CapacityMeanPool,long,5,0.5625,0.555,26,0.495,0.4925,50

@@ -1,0 +1,2 @@
+model,hidden_size,num_layers,bidirectional,pooling,final_train_loss,final_train_acc,final_test_acc,final_clip_test_acc,best_test_acc,best_epoch,best_clip_test_acc,best_clip_epoch,training_time_secs,fold
+LSTM_Run3_CapacityUp_short,256,2,True,final,0.248304018833571,0.9291666666666667,0.3852777777777778,0.51,0.3938888888888889,46,0.5275,39,118.3,1

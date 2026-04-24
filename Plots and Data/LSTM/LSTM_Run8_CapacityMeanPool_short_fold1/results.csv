@@ -1,0 +1,2 @@
+model,hidden_size,num_layers,bidirectional,pooling,final_train_loss,final_train_acc,final_test_acc,final_clip_test_acc,best_test_acc,best_epoch,best_clip_test_acc,best_clip_epoch,training_time_secs,fold
+LSTM_Run8_CapacityMeanPool_short_fold1,256,1,True,mean,0.5887252224816216,0.8531944444444445,0.4241666666666667,0.545,0.42583333333333334,49,0.5575,39,77.0,1

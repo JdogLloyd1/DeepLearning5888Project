@@ -1,0 +1,2 @@
+model,hidden_size,num_layers,bidirectional,pooling,final_train_loss,final_train_acc,final_test_acc,final_clip_test_acc,best_test_acc,best_epoch,best_clip_test_acc,best_clip_epoch,training_time_secs,fold
+LSTM_Run5_DepthUp_short,128,3,True,final,0.286305610107051,0.9197222222222222,0.3825,0.5,0.3863888888888889,42,0.525,34,74.7,1

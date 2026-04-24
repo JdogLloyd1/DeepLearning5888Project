@@ -1,0 +1,2 @@
+model,hidden_size,num_layers,bidirectional,pooling,final_train_loss,final_train_acc,final_test_acc,final_clip_test_acc,best_test_acc,best_epoch,best_clip_test_acc,best_clip_epoch,training_time_secs,fold
+LSTM_Run1_Baseline_short_fold4,128,2,True,final,0.3219384811653031,0.9114583333333334,0.44055555555555553,0.575,0.4761111111111111,31,0.615,31,70.3,4

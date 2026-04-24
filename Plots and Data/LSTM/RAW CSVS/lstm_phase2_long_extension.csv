@@ -1,0 +1,3 @@
+architecture,variant,best_clip_test_acc_fold1,best_test_acc_fold1,source
+LSTM_Run8_CapacityMeanPool,short,0.5525,0.42944444444444446,screening (Cell 14)
+LSTM_Run8_CapacityMeanPool,long,0.565,0.4897916666666667,Phase 2 extension

@@ -1,0 +1,13 @@
+{
+  "model_name": "LSTM_Run8_CapacityMeanPool_short_fold4",
+  "variant_name": "short",
+  "save_dir": "/content/drive/MyDrive/ESC Project Deep Learning 5888 Data Dump/LSTM",
+  "hidden_size": 256,
+  "num_layers": 1,
+  "bidirectional": true,
+  "pooling": "mean",
+  "dropout": 0.3,
+  "learning_rate": 0.001,
+  "num_epochs": 60,
+  "batch_size": 64
+}
