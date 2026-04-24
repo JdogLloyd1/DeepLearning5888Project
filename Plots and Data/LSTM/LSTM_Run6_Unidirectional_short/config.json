@@ -1,0 +1,13 @@
+{
+  "model_name": "LSTM_Run6_Unidirectional_short",
+  "variant_name": "short",
+  "save_dir": "/content/drive/MyDrive/ESC Project Deep Learning 5888 Data Dump/LSTM",
+  "hidden_size": 128,
+  "num_layers": 2,
+  "bidirectional": false,
+  "pooling": "final",
+  "dropout": 0.3,
+  "learning_rate": 0.001,
+  "num_epochs": 60,
+  "batch_size": 64
+}
