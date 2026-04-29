@@ -1,6 +1,0 @@
-model,variant,pretrained_model,final_train_loss,final_train_acc,final_test_loss,final_test_acc,best_test_acc,best_epoch,training_time_sec,num_trainable_params,fold
-AST,real_ast_finetune_fold1,MIT/ast-finetuned-audioset-10-10-0.4593,0.004511717659188435,1.0,0.1986807883065194,0.955,0.9575,5,335.33761191368103,86227250,1
-AST,real_ast_finetune_fold2,MIT/ast-finetuned-audioset-10-10-0.4593,0.0043837591179180894,1.0,0.08681369780562818,0.98,0.9825,8,335.43992257118225,86227250,2
-AST,real_ast_finetune_fold3,MIT/ast-finetuned-audioset-10-10-0.4593,0.004275785562349484,1.0,0.2102617122232914,0.95,0.9575,7,335.45402479171753,86227250,3
-AST,real_ast_finetune_fold4,MIT/ast-finetuned-audioset-10-10-0.4593,0.004347520418232307,1.0,0.12142823432572186,0.955,0.96,4,335.3912584781647,86227250,4
-AST,real_ast_finetune_fold5,MIT/ast-finetuned-audioset-10-10-0.4593,0.004246001666178927,1.0,0.23656843199394642,0.9225,0.925,4,335.4234538078308,86227250,5
