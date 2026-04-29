@@ -1,0 +1,11 @@
+group,experiment,clip_mean,clip_std,best_clip_mean,best_clip_std,seg_mean,seg_std,mean_fold_seconds
+initialization,init_kaiming,0.631,0.0412,0.6515,0.0407,0.5493,0.0428,828.7711
+initialization,init_xavier,0.667,0.0251,0.679,0.0265,0.5765,0.0297,828.5833
+learning_rate,lr_0.001,0.628,0.0502,0.642,0.0453,0.5491,0.0389,625.8618
+learning_rate,lr_0.002,0.616,0.024,0.643,0.0239,0.5478,0.0217,737.8773
+learning_rate,lr_0.005,0.635,0.0213,0.656,0.0261,0.5568,0.0238,821.8594
+learning_rate,lr_0.01,0.6255,0.0192,0.6535,0.0208,0.5522,0.0254,827.0369
+max_norm,max_norm_off,0.6345,0.0183,0.6595,0.0271,0.5567,0.0257,828.4027
+max_norm,max_norm_on,0.6465,0.0196,0.6695,0.0276,0.5756,0.025,830.8112
+segment_length,variant_long,0.6265,0.0322,0.649,0.0258,0.55,0.0225,836.151
+segment_length,variant_short,0.6395,0.022,0.658,0.0264,0.4753,0.0225,568.1681
